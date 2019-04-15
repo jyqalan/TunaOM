@@ -1,0 +1,12 @@
+Package: TunaOM
+Title: Tuna Operating Model
+Version: 0.1
+Date: 2019-05-01
+Author: Dan Fu
+Description: Software for Tuna Operating Model
+Maintainer: Dan Fu <dan.fu@fai.org>
+Depends: R (>= 3.5.0)
+License: Not for distribution outside IOTC (c) IOTC 2019.
+URL: http://iotc.org
+Copyright: Indian Ocean Tuna Commission (IOTC).
+Collate: GenericFunctions.R Ogive.R Ogive_logistic.R Ogive_constant.R Selectivity.R Maturity.R Natural_mortality.R Growth_curve.R von_Bert.R Size_at_age.R Mean_weight.R Age_based_mean_weight.R Stock_recruit.R Ricker.R Beverton_Holt.R Partition.R State.R First.lib.R
